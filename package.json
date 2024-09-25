@@ -23,6 +23,7 @@
     "dexie": "^4.0.7",
     "kumpulan-tools": "^1.0.0",
     "svelte-spa-router": "^4.0.1",
+    "sweetalert2": "^11.14.1",
     "terser": "^5.33.0",
     "vite-plugin-pages-svelte": "0.0.1",
     "vite-plugin-svelte": "^3.0.1"
